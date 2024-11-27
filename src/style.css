@@ -1,0 +1,10 @@
+p {
+  scale: 1.1;
+
+  margin: 0.5em;
+  padding: 0.5em;
+
+  font-weight: bold;
+  color: blue;
+  text-align: center;
+}
