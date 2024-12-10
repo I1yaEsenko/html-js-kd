@@ -1,0 +1,6 @@
+export * from './mail.svg'
+export * from './Error.svg'
+export * from './drawing.svg'
+export * from './Person.svg'
+export * from './Photo.svg'
+export * from './send'

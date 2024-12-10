@@ -5,4 +5,6 @@
 @tailwind utilities;
 
 
-
+.container-custom {
+    @apply m-auto px-4 max-w-80 xs:px-[39px] xs:max-w-[792px] xl:px-[85px] xl:max-w-[1280px]
+}
